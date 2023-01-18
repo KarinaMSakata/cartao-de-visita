@@ -12,7 +12,7 @@ Abaixo você pode ver o template.
 
 ![Screenshot](img/Screenshot.png)
 
-Faça uma visita ao meu cartão [clicando aqui](https://karinamsakata.github.io/cartao-de-visita/) :+1::thumbsup:
+Faça uma visita ao meu cartão [clicando aqui](https://karinamsakata.github.io/cartao-de-visita/) :point_left:
 ## Para Personalizar
 
 Caso deseje utilizar esta versão e adaptá-la ao seu perfil/negócio, siga os passos abaixo:
