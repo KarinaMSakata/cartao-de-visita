@@ -2,8 +2,10 @@
   font-size: 18px;
  --bs-btn-bg: #8e5febab !important;
  --bs-btn-border-color: #530fdafd !important;
+ --bs-btn-border-radius: 5px;
  --bs-btn-hover-bg: rgb(150, 206, 77);
- transition: 0.8s ease all;
+ --bs-btn-hover-border-color:rgb(150, 206, 77);
+ transition: 1s ease all;
 }
 
 .fa-regular {
